@@ -23,8 +23,8 @@ Then visit [http://localhost:8080](http://localhost:8080).
 
 ## Customization
 
-- Update the email placeholder in the Contact section (`disha.rathod@example.com`)
-- Replace the LinkedIn URL with your profile link
+- Email: `disha.c.rathod@gmail.com`
+- LinkedIn: [linkedin.com/in/disha-rathod-](https://www.linkedin.com/in/disha-rathod-)
 - Swap Pexels image URLs for your own photos if desired
 
 ## Structure
