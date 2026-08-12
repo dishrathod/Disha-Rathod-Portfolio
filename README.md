@@ -21,11 +21,9 @@ python3 -m http.server 8080
 
 Then visit [http://localhost:8080](http://localhost:8080).
 
-## Customization
+## Live Site
 
-- Email: `disha.c.rathod@gmail.com`
-- LinkedIn: [linkedin.com/in/disha-rathod-](https://www.linkedin.com/in/disha-rathod-)
-- Swap Pexels image URLs for your own photos if desired
+[https://dishrathod.github.io/Disha-Rathod-Portfolio/](https://dishrathod.github.io/Disha-Rathod-Portfolio/)
 
 ## Structure
 
