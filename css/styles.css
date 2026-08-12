@@ -779,8 +779,12 @@ strong {
   font-size: 1rem;
   font-weight: 500;
   color: var(--white);
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
   transition: color var(--transition), transform var(--transition);
+}
+
+.contact__linkedin {
+  margin-bottom: 2rem;
 }
 
 .contact__email svg {
